@@ -1,0 +1,36 @@
+.centre{
+    text-align: center;
+  }
+  
+  .bg-orange{
+    background: #424a85; 
+  }
+  
+  
+  .mx-auto{
+    margin: auto ;
+  }
+  
+  
+  .flex{
+    display: flex;
+    
+  }
+  
+  .flex-cal{
+    flex-direction: column;
+  }
+  
+  
+  .items-cen{
+    align-items: center;
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
